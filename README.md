@@ -1,6 +1,6 @@
 ### hey, i'm nikos 👋
 
-ece student at ntua (athens), national-level karate competitor, and i build ai systems around one question: **can you actually trust what a model outputs?**
+founding engineer at **[Axiome](https://withaxiome.com) (a16z sr008)**, ece student at ntua (athens), national-level karate competitor, and i build ai systems around one question: **can you actually trust what a model outputs?**
 
 that thread runs through most of what's here. some of it is training models from scratch to see how they work from the inside. some of it is making models honest about when they're wrong. all of it i try to build carefully and report honestly.
 
